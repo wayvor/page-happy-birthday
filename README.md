@@ -128,6 +128,3 @@ https://wayvor.github.io/page-happy-birthday/
 - Revisar la codificacion de caracteres para mostrar correctamente la palabra "Cumpleanos" con caracteres especiales si se desea.
 - Agregar una licencia si el proyecto sera publico y reutilizable.
 
-## Autor
-
-Basado en el proyecto de [William Medina](https://github.com/WILLIAMMDN).
